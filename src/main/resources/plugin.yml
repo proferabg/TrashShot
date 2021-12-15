@@ -1,0 +1,45 @@
+name: TrashShot
+main: com.probgtech.trashshot.TrashShot
+version: 1.4
+api-version: 1.18
+authors: [proferabg]
+description: TrashShot
+commands:
+  ts:
+    description: Root TrashShot command
+    usage: /<command>
+permissions:
+  ts.reload:
+    default: false
+  trashshot.use.lavashot:
+    default: false
+  trashshot.use.watershot:
+    default: false
+  trashshot.use.tntshot:
+    default: false
+  trashshot.use.fireshot:
+    default: false
+  trashshot.use.endershot:
+    default: false
+  trashshot.use.chargeshot:
+    default: false
+  trashshot.use.snowshot:
+    default: false
+  trashshot.use.discostick:
+    default: false
+  trashshot.craft.lavashot:
+    default: false
+  trashshot.craft.watershot:
+    default: false
+  trashshot.craft.tntshot:
+    default: false
+  trashshot.craft.fireshot:
+    default: false
+  trashshot.craft.endershot:
+    default: false
+  trashshot.craft.chargeshot:
+    default: false
+  trashshot.craft.snowshot:
+    default: false
+  trashshot.craft.discostick:
+    default: false

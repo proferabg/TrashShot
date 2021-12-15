@@ -1,0 +1,17 @@
+Messages:
+  Prefix: '&7[&eTrashShot&7] '
+Log_LavaShot: true
+Log_WaterShot: true
+CantUse:
+  TNTShot: 'You''re white trash. You can''t use the &4TNT&3Shot'
+  FireShot: 'You''re white trash. You can''t use the &5Fire&3Shot'
+  LavaShot: 'You''re white trash. You can''t use the &6Lava&3Shot'
+  SnowShot: 'You''re white trash. You can''t use the &bSnow&3Shot'
+  WaterShot: 'You''re white trash. You can''t use the &9Water&3Shot'
+  EnderShot: 'You''re white trash. You can''t use the &2Ender&3Shot'
+  ChargeShot: 'You''re white trash. You can''t use the &8Charge&3Shot'
+  DiscoStick: 'You''re white trash. You can''t use the &5Disco&3Stick'
+DiscoStick_Power: 5
+    
+        
+    
